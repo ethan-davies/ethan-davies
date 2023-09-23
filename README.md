@@ -1,4 +1,4 @@
-## Hey there 👋
+## Hey there! 👋
 
 **I'm Ethan**, I mostly code in [**TypeScript**](https://www.typescriptlang.org/) and I love making my projects compatible with [**Docker**](https://www.docker.com/)! I'm currently making [**Mock**](https://github.com/ethan-davies/mock) which is a new shell written in Go! 
 
