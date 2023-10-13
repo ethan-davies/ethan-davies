@@ -5,3 +5,5 @@
 I also the lead developer of the [**dull.js**](https://github.com/dulljs) project and have contributed to many other projects all on here, [**GitHub**](https://github.com/) and am planning to continue to use the platform. 
 
 If you want to find out more about me visit my [**Website**](https://ethandavies.co.uk/)!
+
+<sub>⚠ **My website is currently facing some issues!**</sub>
