@@ -8,6 +8,7 @@ If you want to find out more about me visit my [**Website**](https://ethandavies
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[12/29 22:13]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//ethan-davies/ethan-davies/issues/1 'test') in [ethan-davies/ethan-davies](https://github.com/ethan-davies/ethan-davies)  
 `[12/29 22:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ethan-davies/ethan-davies](https://github.com/ethan-davies/ethan-davies)  
 `[12/29 21:43]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#1` in <span title="Private Repo">`🔒ethan-davies/ethan-davies`</span>  
 `[12/29 21:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ethan-davies/ethan-davies`</span>  
@@ -17,10 +18,10 @@ If you want to find out more about me visit my [**Website**](https://ethandavies
 `[12/29 20:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ethan-davies/FakeBadges](https://github.com/ethan-davies/FakeBadges)  
 `[12/29 20:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ethan-davies/FakeBadges](https://github.com/ethan-davies/FakeBadges)  
 `[12/28 17:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ethan-davies/ToastNotificationsMerge](https://github.com/ethan-davies/ToastNotificationsMerge)  
-`[12/28 17:22]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/ethan-davies/ToastNotificationsMerge/tree/master) in [ethan-davies/ToastNotificationsMerge](https://github.com/ethan-davies/ToastNotificationsMerge)  
 
 <details><summary>Show More</summary>
 
+`[12/28 17:22]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/ethan-davies/ToastNotificationsMerge/tree/master) in [ethan-davies/ToastNotificationsMerge](https://github.com/ethan-davies/ToastNotificationsMerge)  
 `[12/28 17:21]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ethan-davies/ToastNotificationsMerge](https://github.com/ethan-davies/ToastNotificationsMerge)  
 `[12/28 17:20]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#1`](https://github.com//ethan-davies/InternalNotifications/pull/1 'Styling Change') in [ethan-davies/InternalNotifications](https://github.com/ethan-davies/InternalNotifications)  
 `[12/27 23:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ethan-davies/Vencord](https://github.com/ethan-davies/Vencord)  
@@ -181,7 +182,6 @@ If you want to find out more about me visit my [**Website**](https://ethandavies
 `[10/29 02:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ethan-davies/Gliss](https://github.com/ethan-davies/Gliss)  
 `[10/28 23:29]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/ethan-davies/Gliss/tree/master) in [ethan-davies/Gliss](https://github.com/ethan-davies/Gliss)  
 `[10/27 21:50]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ethan-davies/Gliss](https://github.com/ethan-davies/Gliss)  
-`[10/25 19:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ethan-davies/ethandavies.co.uk`</span>  
 
 </details>
 <!--END_SECTION:activity-->
