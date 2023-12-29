@@ -8,175 +8,180 @@ If you want to find out more about me visit my [**Website**](https://ethandavies
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-
-
-
-
-
-
-
-
-
-
-
-1. 🗣 Commented on [#1806](https://github.com/Vendicated/Vencord/pull/1806#issuecomment-1872335406) in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2. ❌ Closed PR [#1](https://github.com/ethan-davies/InternalNotifications/pull/1) in [ethan-davies/InternalNotifications](https://github.com/ethan-davies/InternalNotifications)
+`[12/29 22:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ethan-davies/ethan-davies](https://github.com/ethan-davies/ethan-davies)  
+`[12/29 21:43]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#1` in <span title="Private Repo">`🔒ethan-davies/ethan-davies`</span>  
+`[12/29 21:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ethan-davies/ethan-davies`</span>  
+`[12/29 21:38]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#1` in <span title="Private Repo">`🔒ethan-davies/ethan-davies`</span>  
+`[12/29 21:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ethan-davies/ethan-davies`</span>  
+`[12/29 21:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1806`](https://github.com//Vendicated/Vencord/issues/1806 'feat(plugin): ToastNotifications') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
+`[12/29 20:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ethan-davies/FakeBadges](https://github.com/ethan-davies/FakeBadges)  
+`[12/29 20:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ethan-davies/FakeBadges](https://github.com/ethan-davies/FakeBadges)  
+`[12/28 17:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ethan-davies/ToastNotificationsMerge](https://github.com/ethan-davies/ToastNotificationsMerge)  
+`[12/28 17:22]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/ethan-davies/ToastNotificationsMerge/tree/master) in [ethan-davies/ToastNotificationsMerge](https://github.com/ethan-davies/ToastNotificationsMerge)  
+
+<details><summary>Show More</summary>
+
+`[12/28 17:21]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ethan-davies/ToastNotificationsMerge](https://github.com/ethan-davies/ToastNotificationsMerge)  
+`[12/28 17:20]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#1`](https://github.com//ethan-davies/InternalNotifications/pull/1 'Styling Change') in [ethan-davies/InternalNotifications](https://github.com/ethan-davies/InternalNotifications)  
+`[12/27 23:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ethan-davies/Vencord](https://github.com/ethan-davies/Vencord)  
+`[12/27 15:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ethan-davies/FakeBadges](https://github.com/ethan-davies/FakeBadges)  
+`[12/27 15:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ethan-davies/InternalNotifications](https://github.com/ethan-davies/InternalNotifications)  
+`[12/27 15:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ethan-davies/Vencord](https://github.com/ethan-davies/Vencord)  
+`[12/27 03:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ethan-davies/InternalNotifications](https://github.com/ethan-davies/InternalNotifications)  
+`[12/27 02:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ethan-davies/Vencord](https://github.com/ethan-davies/Vencord)  
+`[12/27 01:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ethan-davies/InternalNotifications](https://github.com/ethan-davies/InternalNotifications)  
+`[12/27 01:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ethan-davies/Vencord](https://github.com/ethan-davies/Vencord)  
+`[12/26 23:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ethan-davies/InternalNotifications](https://github.com/ethan-davies/InternalNotifications)  
+`[12/26 23:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [ethan-davies/InternalNotifications](https://github.com/ethan-davies/InternalNotifications)  
+`[12/26 19:18]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/ethan-davies/InternalNotifications/tree/master) in [ethan-davies/InternalNotifications](https://github.com/ethan-davies/InternalNotifications)  
+`[12/26 19:13]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ethan-davies/InternalNotifications](https://github.com/ethan-davies/InternalNotifications)  
+`[12/25 20:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ethan-davies/Vencord](https://github.com/ethan-davies/Vencord)  
+`[12/23 18:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ethan-davies/Discord-Nitro-Partnership-Exploit](https://github.com/ethan-davies/Discord-Nitro-Partnership-Exploit)  
+`[12/23 17:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ethan-davies/Vencord](https://github.com/ethan-davies/Vencord)  
+`[12/23 02:48]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`InternalNotifications`](https://github.com/ethan-davies/Vencord/tree/InternalNotifications) in [ethan-davies/Vencord](https://github.com/ethan-davies/Vencord)  
+`[12/22 17:35]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Vendicated/Vencord](https://github.com/Vendicated/Vencord) to [ethan-davies/Vencord](https://github.com/ethan-davies/Vencord)  
+`[12/22 17:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/ethan-davies/FakeBadges/tree/master) in [ethan-davies/FakeBadges](https://github.com/ethan-davies/FakeBadges)  
+`[12/22 17:29]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ethan-davies/FakeBadges](https://github.com/ethan-davies/FakeBadges)  
+`[12/22 16:04]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2068`](https://github.com//Vendicated/Vencord/issues/2068 'feat(plugin): FakeBadges') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
+`[12/22 15:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [ethan-davies/Vencord](https://github.com/ethan-davies/Vencord)  
+`[12/22 15:55]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2068`](https://github.com//Vendicated/Vencord/pull/2068 'feat(plugin): FakeBadges') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
+`[12/22 15:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ethan-davies/Vencord](https://github.com/ethan-davies/Vencord)  
+`[12/22 00:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ethan-davies/api`</span>  
+`[12/21 23:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ethan-davies/cdn`</span>  
+`[12/21 22:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in <span title="Private Repo">`🔒ethan-davies/api`</span>  
+`[12/21 00:07]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Vendicated/Vencord](https://github.com/Vendicated/Vencord) to [ethan-davies/Vencord](https://github.com/ethan-davies/Vencord)  
+`[12/20 23:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ethan-davies/Discord-Nitro-Partnership-Exploit](https://github.com/ethan-davies/Discord-Nitro-Partnership-Exploit)  
+`[12/20 20:28]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.0.0`](https://github.com/ethan-davies/Discord-Nitro-Partnership-Exploit/releases/tag/v1.0.0) in [ethan-davies/Discord-Nitro-Partnership-Exploit](https://github.com/ethan-davies/Discord-Nitro-Partnership-Exploit)  
+`[12/20 20:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ethan-davies/Discord-Nitro-Partnership-Exploit](https://github.com/ethan-davies/Discord-Nitro-Partnership-Exploit)  
+`[12/20 17:52]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/ethan-davies/Discord-Nitro-Partnership-Exploit/tree/master) in [ethan-davies/Discord-Nitro-Partnership-Exploit](https://github.com/ethan-davies/Discord-Nitro-Partnership-Exploit)  
+`[12/20 17:32]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ethan-davies/Discord-Nitro-Partnership-Exploit](https://github.com/ethan-davies/Discord-Nitro-Partnership-Exploit)  
+`[12/19 16:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ethan-davies/dull](https://github.com/ethan-davies/dull)  
+`[12/13 18:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [peterhanania/Discord-Package](https://github.com/peterhanania/Discord-Package)  
+`[12/06 21:40]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒code50/80976096`</span>  
+`[12/03 21:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [duckdb/duckdb](https://github.com/duckdb/duckdb)  
+`[11/30 18:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒jasper-org/Jasper`</span>  
+`[11/30 18:55]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `master` in <span title="Private Repo">`🔒jasper-org/Jasper`</span>  
+`[11/30 18:52]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒jasper-org/Jasper`</span>  
+`[11/29 22:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ethan-davies/cdn`</span>  
+`[11/29 22:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ethan-davies/api`</span>  
+`[11/29 21:30]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Vendicated/Vencord](https://github.com/Vendicated/Vencord) to [ethan-davies/Vencord](https://github.com/ethan-davies/Vencord)  
+`[11/27 22:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ethan-davies/ethan-davies`</span>  
+`[11/27 17:28]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒skinbookmc/api-ghsa-v36f-54r7-6pjm`</span>  
+`[11/27 15:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒skinbookmc/website`</span>  
+`[11/27 15:43]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#10` in <span title="Private Repo">`🔒skinbookmc/website`</span>  
+`[11/26 20:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sdxqw/FFGrinder](https://github.com/sdxqw/FFGrinder)  
+`[11/26 20:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/26 19:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒ethan-davies/test-github`</span>  
+`[11/26 19:08]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `v1.0.0` from <span title="Private Repo">`🔒ethan-davies/test-github`</span>  
+`[11/26 19:08]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `v1.1.0` from <span title="Private Repo">`🔒ethan-davies/test-github`</span>  
+`[11/26 19:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ethan-davies/test-github`</span>  
+`[11/26 18:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TriPSs/conventional-changelog-action](https://github.com/TriPSs/conventional-changelog-action)  
+`[11/26 18:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in <span title="Private Repo">`🔒ethan-davies/test-github`</span>  
+`[11/26 18:03]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `master` in <span title="Private Repo">`🔒ethan-davies/test-github`</span>  
+`[11/26 18:01]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ethan-davies/test-github`</span>  
+`[11/26 17:18]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Sk1erLLC/Patcher](https://github.com/Sk1erLLC/Patcher) to [ethan-davies/Patcher](https://github.com/ethan-davies/Patcher)  
+`[11/25 22:23]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/ethan-davies/.github/tree/master) in [ethan-davies/.github](https://github.com/ethan-davies/.github)  
+`[11/25 22:15]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ethan-davies/.github](https://github.com/ethan-davies/.github)  
+`[11/25 21:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒skinbookmc/website`</span>  
+`[11/25 20:57]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed `#1` in <span title="Private Repo">`🔒skinbookmc/website`</span>  
+`[11/25 20:56]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed `#10` in <span title="Private Repo">`🔒skinbookmc/website`</span>  
+`[11/25 20:55]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#1` in <span title="Private Repo">`🔒skinbookmc/website`</span>  
+`[11/25 20:48]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#10` in <span title="Private Repo">`🔒skinbookmc/website`</span>  
+`[11/25 20:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒skinbookmc/website`</span>  
+`[11/25 18:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/25 18:41]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#17` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/25 18:41]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#17` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/25 18:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/25 17:14]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#16` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/25 17:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#16` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/25 17:10]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#16` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/25 16:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/25 13:48]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat/multi-db` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/25 11:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒skinbookmc/secrets`</span>  
+`[11/25 00:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [openark/orchestrator](https://github.com/openark/orchestrator)  
+`[11/24 23:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ethan-davies/ethandavies.co.uk`</span>  
+`[11/24 23:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/24 20:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒skinbookmc/secrets`</span>  
+`[11/24 19:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/24 19:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `test` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/24 19:30]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `test` from <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/22 19:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/22 19:40]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#14` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/22 19:39]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#14` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/22 19:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/22 19:34]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `test` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/22 19:24]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `test` from <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/22 19:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/22 18:13]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `test` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/22 18:13]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `test` from <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/22 18:07]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `master` in <span title="Private Repo">`🔒skinbookmc/secrets`</span>  
+`[11/22 17:50]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒skinbookmc/secrets`</span>  
+`[11/22 17:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/22 15:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ethan-davies/ethandavies.co.uk`</span>  
+`[11/22 15:09]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue `#2` in <span title="Private Repo">`🔒skinbookmc/site`</span>  
+`[11/22 15:09]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#2` in <span title="Private Repo">`🔒skinbookmc/site`</span>  
+`[11/22 15:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒skinbookmc/site`</span>  
+`[11/20 19:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#12` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/20 19:12]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue `#12` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/20 19:00]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue `#13` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/20 19:00]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Reopened issue `#13` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/20 19:00]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue `#13` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/20 19:00]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#13` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/20 18:59]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#12` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/20 18:29]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked <span title="Private Repo">`🔒skinbookmc/api`</span> to <span title="Private Repo">`🔒ethan-davies/skinbook-api`</span>  
+`[11/20 18:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/20 17:50]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `test` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/20 15:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/18 23:21]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `api@1.0.0` from <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/18 23:21]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `api@1.1.0` from <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/18 23:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/18 22:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [skinbookmc/SkinBook](https://github.com/skinbookmc/SkinBook)  
+`[11/18 16:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ethan-davies/api`</span>  
+`[11/18 16:52]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#16` in <span title="Private Repo">`🔒ethan-davies/api`</span>  
+`[11/18 16:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [torvalds/linux](https://github.com/torvalds/linux)  
+`[11/18 16:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ethan-davies/api`</span>  
+`[11/18 16:17]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#18` in <span title="Private Repo">`🔒ethan-davies/api`</span>  
+`[11/18 16:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ethan-davies/ts-template`</span>  
+`[11/18 15:33]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `master` in <span title="Private Repo">`🔒ethan-davies/ts-template`</span>  
+`[11/17 23:22]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ethan-davies/ts-template`</span>  
+`[11/17 21:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `22` commits in <span title="Private Repo">`🔒CheatBreakerNet/Discord-Bot`</span>  
+`[11/17 21:31]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#26` in <span title="Private Repo">`🔒CheatBreakerNet/Discord-Bot`</span>  
+`[11/17 21:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒CheatBreakerNet/Discord-Bot`</span>  
+`[11/17 21:16]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#26` in <span title="Private Repo">`🔒CheatBreakerNet/Discord-Bot`</span>  
+`[11/17 21:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒CheatBreakerNet/Discord-Bot`</span>  
+`[11/17 19:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `test` in <span title="Private Repo">`🔒CheatBreakerNet/Discord-Bot`</span>  
+`[11/17 19:45]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `testing-bot` from <span title="Private Repo">`🔒CheatBreakerNet/Discord-Bot`</span>  
+`[11/17 19:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒CheatBreakerNet/Discord-Bot`</span>  
+`[11/16 15:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/15 19:22]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue `#11` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/15 19:21]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#11` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/15 19:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/15 19:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒skinbookmc/website`</span>  
+`[11/15 18:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/12 22:36]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#10` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/12 20:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/12 20:10]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#9` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/12 20:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#9` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/12 20:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/12 18:36]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/ethan-davies/express-api/tree/master) in [ethan-davies/express-api](https://github.com/ethan-davies/express-api)  
+`[11/12 18:35]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ethan-davies/express-api](https://github.com/ethan-davies/express-api)  
+`[11/12 18:34]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/ethan-davies/express-api/tree/master) in [ethan-davies/express-api](https://github.com/ethan-davies/express-api)  
+`[11/12 18:34]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ethan-davies/express-api](https://github.com/ethan-davies/express-api)  
+`[11/12 18:33]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/ethan-davies/express-api/tree/master) in [ethan-davies/express-api](https://github.com/ethan-davies/express-api)  
+`[11/12 18:33]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ethan-davies/express-api](https://github.com/ethan-davies/express-api)  
+`[11/09 22:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [htop-dev/htop](https://github.com/htop-dev/htop)  
+`[11/09 21:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒CheatBreakerNet/Discord-Bot`</span>  
+`[11/09 21:01]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feat` in <span title="Private Repo">`🔒CheatBreakerNet/Discord-Bot`</span>  
+`[11/05 19:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ethan-davies/api`</span>  
+`[11/04 23:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ethan-davies/ethandavies.co.uk`</span>  
+`[11/04 11:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in <span title="Private Repo">`🔒ethan-davies/Alaxium`</span>  
+`[10/29 10:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒CheatBreakerNet/Launcher-API`</span>  
+`[10/29 10:58]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#7` in <span title="Private Repo">`🔒CheatBreakerNet/Launcher-API`</span>  
+`[10/29 02:38]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`0.1.0`](https://github.com/ethan-davies/Gliss/releases/tag/0.1.0) in [ethan-davies/Gliss](https://github.com/ethan-davies/Gliss)  
+`[10/29 02:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ethan-davies/Gliss](https://github.com/ethan-davies/Gliss)  
+`[10/28 23:29]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/ethan-davies/Gliss/tree/master) in [ethan-davies/Gliss](https://github.com/ethan-davies/Gliss)  
+`[10/27 21:50]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ethan-davies/Gliss](https://github.com/ethan-davies/Gliss)  
+`[10/25 19:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ethan-davies/ethandavies.co.uk`</span>  
+
+</details>
 <!--END_SECTION:activity-->
