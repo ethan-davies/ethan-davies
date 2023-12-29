@@ -1,10 +1,4 @@
-## Hey there 👋
-
-**I'm Ethan**, a programmer who usually writes in [**TypeScript**](https://www.typescriptlang.org/) and loves making CLI and API related projects! I'm currently working on the backend for [**SkinBook**](https://github.com/skinbookmc), a platform developing the centeral for Minecraft skins! 
-
-I also the lead developer of the [**dull.js**](https://github.com/dulljs) project and have contributed to many other projects all on here, [**GitHub**](https://github.com/) and am planning to continue to use the platform. 
-
-If you want to find out more about me visit my [**Website**](https://ethandavies.co.uk/)!
+![Metrics](https://github.com/ethan-davies/ethan-davies/blob/master/github-metrics.svg)
 
 ## Recent Activity
 <!--START_SECTION:activity-->
