@@ -19,7 +19,7 @@ If you want to find out more about me visit my [**Website**](https://ethandavies
 
 
 
-<details><summary>Show More</summary>
+1. 🗣 Commented on [#1806](https://github.com/Vendicated/Vencord/pull/1806#issuecomment-1872335406) in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
 
 
 
@@ -178,5 +178,5 @@ If you want to find out more about me visit my [**Website**](https://ethandavies
 
 
 
-</details>
+2. ❌ Closed PR [#1](https://github.com/ethan-davies/InternalNotifications/pull/1) in [ethan-davies/InternalNotifications](https://github.com/ethan-davies/InternalNotifications)
 <!--END_SECTION:activity-->
