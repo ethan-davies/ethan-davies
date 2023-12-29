@@ -181,7 +181,6 @@ If you want to find out more about me visit my [**Website**](https://ethandavies
 `[10/29 02:38]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`0.1.0`](https://github.com/ethan-davies/Gliss/releases/tag/0.1.0) in [ethan-davies/Gliss](https://github.com/ethan-davies/Gliss)  
 `[10/29 02:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ethan-davies/Gliss](https://github.com/ethan-davies/Gliss)  
 `[10/28 23:29]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/ethan-davies/Gliss/tree/master) in [ethan-davies/Gliss](https://github.com/ethan-davies/Gliss)  
-`[10/27 21:50]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ethan-davies/Gliss](https://github.com/ethan-davies/Gliss)  
 
 </details>
 <!--END_SECTION:activity-->
