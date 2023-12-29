@@ -19,10 +19,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/London
 
-          # Followup
-          plugin_followup: yes
-          plugin_followup_sections: repositories
-
           # Habits
           plugin_habits: yes
           plugin_habits_days: 14
