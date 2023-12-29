@@ -1,4 +1,4 @@
-name: Update Activity
+name: Update README
 
 on:
   schedule:
@@ -6,12 +6,12 @@ on:
   workflow_dispatch:
 
 jobs:
-  chess:
-    name: Update activity
+  build:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
+    name: Update this repo's README with recent activity
 
-      - uses: cheesits456/github-activity-readme@16bd144b812ce901e0693fee5c36c02e75e6b4a7
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
