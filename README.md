@@ -2,6 +2,7 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[12/30 19:16]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//ethan-davies/ToastNotificationsMerge/issues/1 'Help to install on vencord') in [ethan-davies/ToastNotificationsMerge](https://github.com/ethan-davies/ToastNotificationsMerge)  
 `[12/29 22:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ethan-davies/ethan-davies](https://github.com/ethan-davies/ethan-davies)  
 `[12/29 22:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ethan-davies/ethan-davies](https://github.com/ethan-davies/ethan-davies)  
 `[12/29 22:13]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//ethan-davies/ethan-davies/issues/1 'test') in [ethan-davies/ethan-davies](https://github.com/ethan-davies/ethan-davies)  
@@ -11,10 +12,10 @@
 `[12/29 21:38]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#1` in <span title="Private Repo">`🔒ethan-davies/ethan-davies`</span>  
 `[12/29 21:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ethan-davies/ethan-davies`</span>  
 `[12/29 21:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1806`](https://github.com//Vendicated/Vencord/issues/1806 'feat(plugin): ToastNotifications') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
-`[12/29 20:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ethan-davies/FakeBadges](https://github.com/ethan-davies/FakeBadges)  
 
 <details><summary>Show More</summary>
 
+`[12/29 20:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ethan-davies/FakeBadges](https://github.com/ethan-davies/FakeBadges)  
 `[12/29 20:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ethan-davies/FakeBadges](https://github.com/ethan-davies/FakeBadges)  
 `[12/28 17:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ethan-davies/ToastNotificationsMerge](https://github.com/ethan-davies/ToastNotificationsMerge)  
 `[12/28 17:22]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/ethan-davies/ToastNotificationsMerge/tree/master) in [ethan-davies/ToastNotificationsMerge](https://github.com/ethan-davies/ToastNotificationsMerge)  
@@ -173,7 +174,6 @@
 `[11/04 23:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ethan-davies/ethandavies.co.uk`</span>  
 `[11/04 11:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in <span title="Private Repo">`🔒ethan-davies/Alaxium`</span>  
 `[10/29 10:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒CheatBreakerNet/Launcher-API`</span>  
-`[10/29 10:58]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#7` in <span title="Private Repo">`🔒CheatBreakerNet/Launcher-API`</span>  
 
 </details>
 <!--END_SECTION:activity-->
