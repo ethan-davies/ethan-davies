@@ -2,6 +2,7 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[01/14 16:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ethan-davies/api`</span>  
 `[01/14 16:46]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `remake` in <span title="Private Repo">`🔒ethan-davies/api`</span>  
 `[01/14 16:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in <span title="Private Repo">`🔒ethan-davies/cdn`</span>  
 `[01/14 01:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ethan-davies/api`</span>  
@@ -11,10 +12,10 @@
 `[01/10 18:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ethan-davies/BC`</span>  
 `[01/10 18:24]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `master` in <span title="Private Repo">`🔒ethan-davies/BC`</span>  
 `[01/10 18:20]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ethan-davies/BC`</span>  
-`[01/10 18:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ethan-davies/ethandavies.co.uk`</span>  
 
 <details><summary>Show More</summary>
 
+`[01/10 18:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ethan-davies/ethandavies.co.uk`</span>  
 `[01/04 21:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2`](https://github.com//ethan-davies/ToastNotificationsMerge/issues/2 'Project Status') in [ethan-davies/ToastNotificationsMerge](https://github.com/ethan-davies/ToastNotificationsMerge)  
 `[01/04 21:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ethan-davies/ToastNotificationsMerge](https://github.com/ethan-davies/ToastNotificationsMerge)  
 `[01/04 21:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ethan-davies/ToastNotificationsMerge](https://github.com/ethan-davies/ToastNotificationsMerge)  
@@ -185,7 +186,6 @@
 `[11/12 18:34]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ethan-davies/express-api](https://github.com/ethan-davies/express-api)  
 `[11/12 18:33]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/ethan-davies/express-api/tree/master) in [ethan-davies/express-api](https://github.com/ethan-davies/express-api)  
 `[11/12 18:33]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ethan-davies/express-api](https://github.com/ethan-davies/express-api)  
-`[11/09 22:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [htop-dev/htop](https://github.com/htop-dev/htop)  
 
 </details>
 <!--END_SECTION:activity-->
