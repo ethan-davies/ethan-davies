@@ -2,6 +2,7 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[01/27 15:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ethan-davies/cdn`</span>  
 `[01/22 16:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)  
 `[01/21 21:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ethan-davies/ToastNotificationsMerge](https://github.com/ethan-davies/ToastNotificationsMerge)  
 `[01/21 21:32]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//ethan-davies/ToastNotificationsMerge/pull/3 'Fix: Friend Server Notifications not being evaluated correctly') in [ethan-davies/ToastNotificationsMerge](https://github.com/ethan-davies/ToastNotificationsMerge)  
@@ -11,10 +12,10 @@
 `[01/19 16:10]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `master` in <span title="Private Repo">`🔒ethan-davies/api`</span>  
 `[01/19 16:10]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ethan-davies/api`</span>  
 `[01/19 16:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ethan-davies/api`</span>  
-`[01/15 18:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ethan-davies/bc`</span>  
 
 <details><summary>Show More</summary>
 
+`[01/15 18:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ethan-davies/bc`</span>  
 `[01/15 18:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `master` in <span title="Private Repo">`🔒ethan-davies/bc`</span>  
 `[01/15 18:37]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ethan-davies/bc`</span>  
 `[01/15 17:25]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `master` in <span title="Private Repo">`🔒ethan-davies/personal-api`</span>  
@@ -190,7 +191,6 @@
 `[11/17 19:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒CheatBreakerNet/Discord-Bot`</span>  
 `[11/16 15:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒skinbookmc/api`</span>  
 `[11/15 19:22]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue `#11` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
-`[11/15 19:21]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#11` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
 
 </details>
 <!--END_SECTION:activity-->
