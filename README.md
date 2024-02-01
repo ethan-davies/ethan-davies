@@ -2,6 +2,7 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[02/01 21:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ethan-davies/cdn`</span>  
 `[02/01 20:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ethan-davies/PersonalisedCord`</span>  
 `[02/01 20:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`feat/commandPalette`](https://github.com/ethan-davies/Vencord/tree/feat/commandPalette) in [ethan-davies/Vencord](https://github.com/ethan-davies/Vencord)  
 `[02/01 17:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ethan-davies/PersonalisedCord`</span>  
@@ -11,10 +12,10 @@
 `[01/31 17:40]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ethan-davies/VenBuild`</span>  
 `[01/31 17:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `master` in <span title="Private Repo">`🔒ethan-davies/PersonalisedCord`</span>  
 `[01/31 17:26]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ethan-davies/PersonalisedCord`</span>  
-`[01/30 23:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Vencord/Vesktop](https://github.com/Vencord/Vesktop)  
 
 <details><summary>Show More</summary>
 
+`[01/30 23:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Vencord/Vesktop](https://github.com/Vencord/Vesktop)  
 `[01/29 17:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)  
 `[01/29 00:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ethan-davies/Vencord](https://github.com/ethan-davies/Vencord)  
 `[01/28 14:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Syncxv/vc-message-logger-enhanced](https://github.com/Syncxv/vc-message-logger-enhanced)  
@@ -167,7 +168,6 @@
 `[11/22 18:13]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `test` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
 `[11/22 18:13]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `test` from <span title="Private Repo">`🔒skinbookmc/api`</span>  
 `[11/22 18:07]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `master` in <span title="Private Repo">`🔒skinbookmc/secrets`</span>  
-`[11/22 17:50]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒skinbookmc/secrets`</span>  
 
 </details>
 <!--END_SECTION:activity-->
