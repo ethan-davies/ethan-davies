@@ -2,6 +2,7 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[02/03 18:32]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2145`](https://github.com//Vendicated/Vencord/issues/2145 'feat(plugin): Added CommandPalette') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[02/03 18:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ethan-davies/Vencord](https://github.com/ethan-davies/Vencord)  
 `[02/03 18:18]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2145`](https://github.com//Vendicated/Vencord/pull/2145 'feat(plugin): Added CommandPalette') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[02/03 17:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ethan-davies/Vencord](https://github.com/ethan-davies/Vencord)  
@@ -11,10 +12,10 @@
 `[02/01 17:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ethan-davies/PersonalisedCord`</span>  
 `[02/01 15:21]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Vendicated/Vencord](https://github.com/Vendicated/Vencord) to [ethan-davies/Vencord](https://github.com/ethan-davies/Vencord)  
 `[01/31 18:14]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `master` in <span title="Private Repo">`🔒ethan-davies/VenBuild`</span>  
-`[01/31 18:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in <span title="Private Repo">`🔒ethan-davies/PersonalisedCord`</span>  
 
 <details><summary>Show More</summary>
 
+`[01/31 18:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in <span title="Private Repo">`🔒ethan-davies/PersonalisedCord`</span>  
 `[01/31 17:40]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ethan-davies/VenBuild`</span>  
 `[01/31 17:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `master` in <span title="Private Repo">`🔒ethan-davies/PersonalisedCord`</span>  
 `[01/31 17:26]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ethan-davies/PersonalisedCord`</span>  
@@ -169,7 +170,6 @@
 `[11/22 19:24]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `test` from <span title="Private Repo">`🔒skinbookmc/api`</span>  
 `[11/22 19:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in <span title="Private Repo">`🔒skinbookmc/api`</span>  
 `[11/22 18:13]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `test` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
-`[11/22 18:13]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `test` from <span title="Private Repo">`🔒skinbookmc/api`</span>  
 
 </details>
 <!--END_SECTION:activity-->
