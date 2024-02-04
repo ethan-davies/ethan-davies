@@ -2,6 +2,7 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[02/04 01:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ethan-davies/Vencord](https://github.com/ethan-davies/Vencord)  
 `[02/03 20:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `2.0` in <span title="Private Repo">`🔒ethan-davies/ethandavies.co.uk`</span>  
 `[02/03 19:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ethan-davies/Vencord](https://github.com/ethan-davies/Vencord)  
 `[02/03 18:32]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2145`](https://github.com//Vendicated/Vencord/issues/2145 'feat(plugin): Added CommandPalette') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
@@ -11,10 +12,10 @@
 `[02/01 21:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ethan-davies/cdn`</span>  
 `[02/01 20:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ethan-davies/PersonalisedCord`</span>  
 `[02/01 20:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`feat/commandPalette`](https://github.com/ethan-davies/Vencord/tree/feat/commandPalette) in [ethan-davies/Vencord](https://github.com/ethan-davies/Vencord)  
-`[02/01 17:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ethan-davies/PersonalisedCord`</span>  
 
 <details><summary>Show More</summary>
 
+`[02/01 17:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ethan-davies/PersonalisedCord`</span>  
 `[02/01 15:21]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Vendicated/Vencord](https://github.com/Vendicated/Vencord) to [ethan-davies/Vencord](https://github.com/ethan-davies/Vencord)  
 `[01/31 18:14]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `master` in <span title="Private Repo">`🔒ethan-davies/VenBuild`</span>  
 `[01/31 18:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in <span title="Private Repo">`🔒ethan-davies/PersonalisedCord`</span>  
@@ -170,7 +171,7 @@
 `[11/22 19:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒skinbookmc/api`</span>  
 `[11/22 19:34]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `test` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
 `[11/22 19:24]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `test` from <span title="Private Repo">`🔒skinbookmc/api`</span>  
-`[11/22 19:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in <span title="Private Repo">`🔒skinbookmc/api`</span>  
+`[11/22 19:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒skinbookmc/api`</span>  
 
 </details>
 <!--END_SECTION:activity-->
