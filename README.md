@@ -2,6 +2,8 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+`[02/04 16:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ethan-davies/VenBuild`</span>  
+`[02/04 16:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒ethan-davies/PersonalisedCord`</span>  
 `[02/04 15:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ethan-davies/VenBuild`</span>  
 `[02/04 15:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒ethan-davies/PersonalisedCord`</span>  
 `[02/04 15:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#374`](https://github.com//Vencord/Vesktop/issues/374 'Documentation for adding custom plugins') in [Vencord/Vesktop](https://github.com/Vencord/Vesktop)  
@@ -10,11 +12,11 @@
 `[02/03 19:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ethan-davies/Vencord](https://github.com/ethan-davies/Vencord)  
 `[02/03 18:32]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2145`](https://github.com//Vendicated/Vencord/issues/2145 'feat(plugin): Added CommandPalette') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[02/03 18:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ethan-davies/Vencord](https://github.com/ethan-davies/Vencord)  
-`[02/03 18:18]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2145`](https://github.com//Vendicated/Vencord/pull/2145 'feat(plugin): Added CommandPalette') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
-`[02/03 17:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ethan-davies/Vencord](https://github.com/ethan-davies/Vencord)  
 
 <details><summary>Show More</summary>
 
+`[02/03 18:18]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2145`](https://github.com//Vendicated/Vencord/pull/2145 'feat(plugin): Added CommandPalette') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
+`[02/03 17:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ethan-davies/Vencord](https://github.com/ethan-davies/Vencord)  
 `[02/01 21:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ethan-davies/cdn`</span>  
 `[02/01 20:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ethan-davies/PersonalisedCord`</span>  
 `[02/01 20:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`feat/commandPalette`](https://github.com/ethan-davies/Vencord/tree/feat/commandPalette) in [ethan-davies/Vencord](https://github.com/ethan-davies/Vencord)  
@@ -164,11 +166,6 @@
 `[11/25 00:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [openark/orchestrator](https://github.com/openark/orchestrator)  
 `[11/24 23:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ethan-davies/ethandavies.co.uk`</span>  
 `[11/24 23:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒skinbookmc/api`</span>  
-`[11/24 20:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒skinbookmc/secrets`</span>  
-`[11/24 19:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒skinbookmc/api`</span>  
-`[11/24 19:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `test` in <span title="Private Repo">`🔒skinbookmc/api`</span>  
-`[11/24 19:30]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `test` from <span title="Private Repo">`🔒skinbookmc/api`</span>  
-`[11/22 19:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒skinbookmc/api`</span>  
 
 </details>
 <!--END_SECTION:activity-->
