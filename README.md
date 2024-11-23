@@ -4,4 +4,4 @@ My name is Ethan Davies and I'm a student and self-taught programmer from the Un
 
 I'm working on many projects, some of them being; CheatBreaker, a free FPS boosting modpack for Minecraft versions 1.7 and 1.8. Surge, a customisable and modern Minecraft Launcher for creating unique instances and SkinBook, a customisable platform for sharing Minecraft profiles.
 
-If you would like to contact me, do so by emailing contact@ethandavies.co.uk.
+If you would like to contact me, do so by emailing me@ethann.dev.
