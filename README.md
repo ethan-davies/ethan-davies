@@ -1,7 +1,6 @@
-## 👋 Hey there!
+# 👋 Hey there!
+My name is Ethan Davies, and I am a student and a self-taught developer based in the United Kingdom. I'm always looking for new challenges and how to expand my knowledge, especially in terms of modern web technology and frameworks. I love working across the stack, with a specific interest in TypeScript and creating both frontend and backend solutions.
 
-My name is Ethan Davies and I'm a student and self-taught programmer from the United Kingdom, constantly trying to enhance my skills by learning new technologies and frameworks. One of my goals is to learn Rust to a comfortable degree and to further contribute to the open-source movement. I love to write code for both the frontend and backend primarily using TypeScript.
+My main interest at the moment is Rend, a platform developed for game developers. Rend aims to simplify hosting, sharing, and publishing games, offering strong tools and a support community for creators of all kinds. I am excited to see the potential for Rend to bring developers' ideas to life.
 
-I'm working on many projects, some of them being; CheatBreaker, a free FPS boosting modpack for Minecraft versions 1.7 and 1.8. Surge, a customisable and modern Minecraft Launcher for creating unique instances and SkinBook, a customisable platform for sharing Minecraft profiles.
-
-If you would like to contact me, do so by emailing me@ethann.dev.
+If you wish to reach out or have a few questions, feel free to contact me at me@ethann.dev.
